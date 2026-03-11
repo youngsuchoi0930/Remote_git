@@ -8,4 +8,4 @@ def backend():
 
 
 def aimodels():
-    pass
+    print("모델 개발 완료")
