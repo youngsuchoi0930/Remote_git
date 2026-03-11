@@ -1,5 +1,5 @@
 def frontend():
-    pass
+    print("프론트앤드")
 
 
 def backend():
